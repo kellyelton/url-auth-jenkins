@@ -8,13 +8,13 @@
 
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>url-auth</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <packaging>hpi</packaging>
     <name>Url Auth</name>
     <description>Allows for authenication using URL's.</description>
     <developers>
         <developer>
-            <id>imod</id>
+            <id>kelton5020</id>
             <name>Kelly Elton</name>
             <email>its.the.doc@gmail.com</email>
         </developer>
