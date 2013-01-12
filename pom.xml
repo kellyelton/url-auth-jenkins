@@ -21,7 +21,7 @@
     </developers>
     <url>https://github.com/kellyelton/url-auth-jenkins</url>
     <scm>
-      <connection>scm:git:git://github.com/kellyelton/url-auth-jenkins.git</connection>
+      <connection>scm:git:ssh://github.com/kellyelton/url-auth-jenkins.git</connection>
       <developerConnection>scm:git:ssh://git@github.com/kellyelton/url-auth-jenkins.git</developerConnection>
       <url>https://github.com/kellyelton/url-auth-jenkins</url>
     </scm>
